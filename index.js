@@ -68,7 +68,7 @@ class Matrix {
   }
 
   resolveByExtension(extension) {
-    const ext = extension.replace(/\./g, '');
+    const ext = extension.replace(/\./g, '').toLowerCase();
     return (this._options.resolvers || []).find(r => (r.test.ext || []).includes(ext));
   }
   resolveByFallback() {
