@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/webkitty/strapi-provider-upload-matrix"
+    "url": "https://github.com/f00b4r/strapi-provider-upload-matrix"
   },
   "bugs": {
-    "url": "https://github.com/webkitty/strapi-provider-upload-matrix/issues"
+    "url": "https://github.com/f00b4r/strapi-provider-upload-matrix/issues"
   },
   "main": "index.js"
 }

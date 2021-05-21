@@ -9,8 +9,8 @@
 </p>
 
 <p align=center>
-    <a href="https://github.com/webkitty/strapi-provider-upload-matrix/actions">
-        <img src="https://badgen.net/github/checks/webkitty/strapi-provider-upload-matrix">
+    <a href="https://github.com/f00b4r/strapi-provider-upload-matrix/actions">
+        <img src="https://badgen.net/github/checks/f00b4r/strapi-provider-upload-matrix">
     </a>
     <a href="https://www.npmjs.com/package/strapi-provider-upload-matrix">
         <img src="https://badgen.net/npm/v/strapi-provider-upload-matrix">
@@ -19,7 +19,7 @@
         <img src="https://badgen.net/npm/dt/strapi-provider-upload-matrix">
     </a>
     <a href="/LICENSE">
-        <img src="https://badgen.net/github/license/webkitty/strapi-provider-upload-matrix">
+        <img src="https://badgen.net/github/license/f00b4r/strapi-provider-upload-matrix">
     </a>
 </p>
 
